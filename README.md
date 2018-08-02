@@ -15,6 +15,6 @@ In this lab we will launch an EC2 instance with an inbuilt Docker application
 4. Select **t2.medium** instance type, explore the options and launch the EC2 instance.
 5. SSH into the EC2 instance, login with username: perform, password: perform
 6. Use the following commands to start EasyTravel Docker
-- cd easyTravel-Docker/
-- docker-compose up
+  - cd easyTravel-Docker/
+  - docker-compose up
 7. Now you can access EasyTravel Web UI via http://<EC2_instance_public_IP>
