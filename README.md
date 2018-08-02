@@ -3,7 +3,7 @@ In this tutorial you will get a demo app (EasyTravel Docker) where you can deplo
 
 ## Pre-requisites
 1. You need an AWS account. If you don't have one [get one here.](https://aws.amazon.com/)
-2. You need a Dynatrace Account. Get your [Free SaaS Trial here!](http://bit.ly/dtsaastrial)
+2. You need a Dynatrace Account. Get your [Free SaaS Trial here!](http://bit.ly/dtsaastrial) If you already have one, then please proceed to use that instead of signing up a new tenant.
 
 ## Launch an EC2 Instance with EasyTravel Docker
 In this lab we will launch an EC2 instance with built-in Docker application.
