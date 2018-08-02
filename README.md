@@ -24,3 +24,6 @@ In this lab we will launch an EC2 instance with an inbuilt Docker application
 In this lab you will get hands-on with basic navigation of Dynatrace. Download the Getting Started with Dynatrace.pdf attached in this repository and follow the instruction.
 
 Happy Dynatracing!
+
+Chris
+christopher.chai@dynatrace.com
