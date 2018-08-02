@@ -1,11 +1,11 @@
 # Easy Travel Docker for Partner Enablement
 In this tutorial you will get a demo app (EasyTravel Docker) where you can deploy OneAgent from your Dynatrace SaaS tenant and get started on learning use cases on how to monitor applications and services with Dynatrace SaaS. The same will also work if you have Dynatrace Managed installed On-Premise. Also remember: Dynatrace can not only monitor your on premise apps but also your AWS Environments, Azure, OpenStack, OpenShift, VMWare or anywhere else!
 
-## Pre-Requisits
+## Pre-requisites
 1. You need an AWS account. If you dont have one [get one here](https://aws.amazon.com/)
 2. You need a Dynatrace Account. Get your [Free SaaS Trial here!](http://bit.ly/dtsaastrial)
 
-# Launch an EC2 Instance with EasyTravel Docker
+## Launch an EC2 Instance with EasyTravel Docker
 In this lab we will launch an EC2 instance with an inbuilt Docker application 
 
 **Step by Step Guide**
@@ -18,3 +18,9 @@ In this lab we will launch an EC2 instance with an inbuilt Docker application
    - cd easyTravel-Docker/
    - docker-compose up
 7. Now you can access EasyTravel Web UI via http://<EC2_instance_public_IP>
+8. To stop EasyTravel Docker, simply input Ctrl+C.
+
+## Getting started with Dynatrace
+In this lab you will get hands-on with basic navigation of Dynatrace. Download the Getting Started with Dynatrace.pdf attached in this repository and follow the instruction.
+
+Happy Dynatracing!
