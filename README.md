@@ -1,6 +1,11 @@
 # EasyTravel Docker for Partner Enablement
 In this tutorial you will get a demo app (EasyTravel Docker) where you can deploy OneAgent from your Dynatrace SaaS tenant and get started on learning use cases on how to monitor applications and services with Dynatrace SaaS. The same will also work if you have Dynatrace Managed installed On-Premise. Also remember: Dynatrace can not only monitor your on premise apps but also your AWS Environments, Azure, OpenStack, OpenShift, VMWare or anywhere else!
 
+## Target Audience
+This tutorial is for you if:
+1. You've just seen Dynatrace in action and would like to build up some hands-on experience with Dynatrace.
+2. Nothing too deep, you just want to see what is Dynatrace.
+
 ## Pre-requisites
 1. You need an AWS account. If you don't have one [get one here.](https://aws.amazon.com/)
 2. You need a Dynatrace Account. Get your [Free SaaS Trial here!](http://bit.ly/dtsaastrial) If you already have one, then please proceed to use that instead of signing up a new tenant.
