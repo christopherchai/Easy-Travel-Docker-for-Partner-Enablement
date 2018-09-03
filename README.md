@@ -26,7 +26,7 @@ In this lab we will launch an EC2 instance with built-in Docker application.
 8. To stop EasyTravel Docker, simply input Ctrl+C.
 
 ## Getting started with Dynatrace
-In this lab you will get hands-on with basic navigation of Dynatrace. Download the Getting Started with Dynatrace.pdf attached in this repository and follow the instructions.
+In this lab you will get hands-on with basic navigation of Dynatrace. Download the **Getting Started with Dynatrace.pdf** attached in this repository and follow the instructions.
 
 Happy Dynatracing!
 
