@@ -25,6 +25,14 @@ In this lab we will launch an EC2 instance with built-in Docker application.
 7. Now you can access EasyTravel Web UI via http://<EC2_instance_public_IP>.
 8. To stop EasyTravel Docker, simply input Ctrl+C.
 
+**Frequently Asked Questions**
+1. *I can't access my website even though I have started up the EasyTravel application.*
+   - Make sure you have the right security group assigned to your EasyTravel EC2 instance that allows inbound TCP HTTP 80 connection. For more information, please refer to https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html.
+2. *After starting up EasyTravel, I can see some WARNING messages appearing on my screen, should I be concern about it?*
+   - Yes, it's perfectly normal to see these messages, it's part of the problem pattern of the application to be shown after you deployed Dynatrace OneAgent.
+3. *Can I exit the SSH session and keep EasyTravel running?*
+   - Yes, you can exit the SSH session and EasyTravel will keep running; it would only stop if you explicitly input Ctrl+C.
+
 ## Getting started with Dynatrace
 In this lab you will get hands-on with basic navigation of Dynatrace. Download the **Getting Started with Dynatrace.pdf** attached in this repository and follow the instructions.
 
