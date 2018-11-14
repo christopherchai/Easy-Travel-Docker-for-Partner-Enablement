@@ -38,4 +38,4 @@ In this lab you will get hands-on with basic navigation of Dynatrace. Download t
 
 Happy Dynatracing!
 
-Chris Chai (christopher.chai@dynatrace.com)
+Feel free to send feedbacks to christopher.chai@dynatrace.com
