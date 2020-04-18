@@ -15,7 +15,7 @@ In this lab we will launch an EC2 instance with built-in Docker application.
 
 **Step by Step Guide**
 1. Log into to AWS console.
-2. Select EC2 and Click on Launch an Instance. Make sure you are launching the EC2 instance in Asia Pacific (Singapore) region.
+2. Select EC2 and Click on Launch an Instance. Make sure you are launching the EC2 instance in **Asia Pacific (Singapore) region**.
 3. Click on Community AMI's. In the Search box type **EasyTravel Docker for Partner Enablement**. There should be only one image with the following description: "EasyTravel Docker installed and pulled, can be run immediately".
 4. Select **t2.medium** instance type, explore the options and launch the EC2 instance. **IMPORTANT: Please create a Security Group to allow inbound TCP HTTP 80 connection or else you can't access EasyTravel website!**
 5. SSH into the EC2 instance, login with username: perform, password: perform
